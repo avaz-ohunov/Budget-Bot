@@ -1,3 +1,3 @@
 # BotToken.py
 
-bot_token = "aa1994d88c1b5e280da7f7999e7189be4868c6cc4a8bc7044f28bf834852a092f8b453022aae82e671772"
+bot_token = "https://youtu.be/hhq4sPeQ5A8?t=76"
